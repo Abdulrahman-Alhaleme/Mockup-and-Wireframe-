@@ -3,7 +3,7 @@ task no.2
 ## what is this project?
 + an academy  for free courses
 
-##what are the tools you used to create it?
+## what are the tools you used to create it?
 + figma
 + github
 + vs
