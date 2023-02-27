@@ -10,4 +10,5 @@ task no.2
 + internet
 
 wireframe :https://www.figma.com/file/CS2h6PYZVpdAe3yIhCqzGI/Untitled?node-id=0%3A1&t=fZOOcCBXPxNFCAgL-1
+
 mockup : 
