@@ -6,10 +6,10 @@ task no.2
 ## what are the tools you used to create it?
 + figma
 + github
-+ vs
++ vs code
 + internet
 
 wireframe :https://www.figma.com/file/CS2h6PYZVpdAe3yIhCqzGI/Untitled?node-id=0%3A1&t=fZOOcCBXPxNFCAgL-1
 
-mockup : https://www.figma.com/file/CS2h6PYZVpdAe3yIhCqzGI/Untitled?node-id=12%3A4&t=V9FPcxs7QzES0wrV-1
+mockup : https://www.figma.com/file/CS2h6PYZVpdAe3yIhCqzGI/Untitled?node-id=12%3A4&t=Vyd6LP1rtaAcvRCF-1
 
